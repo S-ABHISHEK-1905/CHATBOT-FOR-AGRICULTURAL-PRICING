@@ -210,9 +210,6 @@ This project successfully provides a robust, low-cost, and user-friendly solutio
 - Multilingual support (Telugu, Tamil, Hindi, etc.)
 - Deployment on smart kiosks and IVR systems
 
-## Output Example
-User: _“What is the modal price of onions in Pune?”_  
-Bot: _“In Pune market, the modal price of Onion (Red) is ₹1300 per quintal.”_
 
 ## References  
 1. OpenAI, "Retrieval-Augmented Generation with LangChain", 2024  
